@@ -103,6 +103,9 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>2.6.0</version>
+				<configuration>
+            <mainClass>Personal_Form.projeto_cadastro_pessoas.ProjetoCadastroPessoasApplication</mainClass> 
+        </configuration>
 				<executions>
 				<execution>
 					<goals>
