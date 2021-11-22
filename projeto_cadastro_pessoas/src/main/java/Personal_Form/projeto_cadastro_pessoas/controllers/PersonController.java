@@ -26,7 +26,7 @@ public class PersonController {
 
     @GetMapping
     public String getBook() {
-        return "API Test" + " **** " + "First example - success";
+        return "API Test" + " ****// " + "First example - success";
     }
 /*
     private final PersonService personService;
