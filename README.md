@@ -43,16 +43,17 @@ public class PersonController {
     }
     
 * executar o projeto
-* *  abrir o navegador com a URL: http://localhost:8080/api/v1/people
-* *  obter o retorno com a exibição da mensagem
+* *  abrir o navegador com a URL: 
+*** http://localhost:8080/api/v1/people
+* *  obter o retorno com a exibição da mensagem = API Test ****// First example - success
 
 * Criar no heroku um novo app
 * * linkar com o projeto do github
 * * criar na raiz do projeto um arquivo system.properties indicando a versão Java utilizada
 * * executar o deploy da branch para o heroku
-* * abrir o navegador com a URL gerada
-    https://people-registration-project.herokuapp.com/api/v1/people
-* * obter o retorno com a exibição da mensagem
+* * abrir o navegador com a URL gerada : 
+*** https://people-registration-project.herokuapp.com/api/v1/people
+* * obter o retorno com a exibição da mensagem = 
     API Test ****// First example - success
     
     
